@@ -18,7 +18,7 @@ package main
 import (
 	"log"
 
-	"slacter"
+	"github.com/yukpiz/slacter"
 )
 
 func main() {
