@@ -38,9 +38,19 @@ func main() {
 }
 ```
 
-Result
+**Result**
 
 <img src="https://i.gyazo.com/31009ea9e0cbacfb63a5fdc95500f2aa.png"/>
 
 How to generate slack's token.  
 https://get.slack.help/hc/en-us/articles/215770388-Create-and-regenerate-API-tokens  
+
+
+# Author
+
+Yuuki Zayasu(yukpiz)
+
+
+# License
+
+MIT
