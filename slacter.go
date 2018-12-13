@@ -64,7 +64,7 @@ func (s *Slacter) postSlack(p []byte) error {
 	if err != nil {
 		return err
 	}
-	if resp.StatusCode != http.StatusCreated {
+	if resp.StatusCode != http.StatusOK {
 		return fmt.Errorf(string(body))
 	}
 
