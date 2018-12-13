@@ -12,7 +12,7 @@ $ go get github.com/yukpiz/slacter
 
 # Usage
 
-```
+```go
 package main
 
 import (
